@@ -19,5 +19,5 @@
 </p>
 
 <p align="center">
-  <img src="https://wakatime.com/share/@e2d480f5-fd20-4306-9532-8dd4b9ab170b/763a4dc2-9d63-49a2-ae93-b3ce5e27e9be.svg" style="height:30rem;"></img>
+  <img src="https://wakatime.com/share/@e2d480f5-fd20-4306-9532-8dd4b9ab170b/763a4dc2-9d63-49a2-ae93-b3ce5e27e9be.svg" style="height:20rem;"></img>
 </p>
