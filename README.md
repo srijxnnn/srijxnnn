@@ -1,12 +1,12 @@
 <div align="center">
   <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=jinxedbuffer&theme=github_dark">
+      <img src="https://github-readme-stats.vercel.app/api?username=srijxnnn&theme=github_dark">
     </a>
   </p>
   <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinxedbuffer&layout=compact&theme=github_dark">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijxnnnn&layout=compact&theme=github_dark">
     </a>
   </p>
 </div>
