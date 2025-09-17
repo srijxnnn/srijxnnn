@@ -14,6 +14,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,arch,bash,c,cpp,dart,flutter,java" /><br />
-    <img src="https://skillicons.dev/icons?i=js,kotlin,linux,nodejs,obsidian,py,ts,vim" /><br />
+    <img src="https://skillicons.dev/icons?i=js,kotlin,linux,nodejs,obsidian,py,ts,neovim" /><br />
   </a>
 </p>
