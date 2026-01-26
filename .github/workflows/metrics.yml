@@ -20,3 +20,6 @@ jobs:
           plugin_languages: true
           plugin_languages_indepth: true
           plugin_languages_details: bytes-size, percentage
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
