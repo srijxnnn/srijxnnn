@@ -28,7 +28,6 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          plugin_leetcode_user: srijxn_
           plugin_leetcode: yes
           plugin_leetcode_sections: solved, skills, recent
           
