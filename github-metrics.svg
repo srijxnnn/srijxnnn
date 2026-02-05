@@ -30,20 +30,20 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            268 Commits
+                            270 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -277,22 +277,22 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">elaris</span>
-                                <div class="bar" style="width: 77.176%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">96%</span>
+                                <div class="bar" style="width: 75.144%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">94%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">ascon</span>
-                                <div class="bar" style="width: 1.8239999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">2%</span>
+                                <div class="bar" style="width: 3.808%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">5%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">ascon01</span>
-                                <div class="bar" style="width: 0.8079999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.848%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">TestProject</span>
-                                <div class="bar" style="width: 0.19199999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.2%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -302,27 +302,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Rust</span>
-                                <div class="bar" style="width: 72.384%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">90%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Other</span>
-                                <div class="bar" style="width: 4.6000000000000005%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">6%</span>
+                                <div class="bar" style="width: 73.712%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">92%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">C</span>
-                                <div class="bar" style="width: 2.6%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">3%</span>
+                                <div class="bar" style="width: 4.632%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">6%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Kotlin</span>
-                                <div class="bar" style="width: 0.184%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">Markdown</span>
+                                <div class="bar" style="width: 0.888%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">1%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Other</span>
+                                <div class="bar" style="width: 0.33599999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">TOML</span>
-                                <div class="bar" style="width: 0.184%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">Kotlin</span>
+                                <div class="bar" style="width: 0.2%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -342,9 +342,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="12.624119028974158 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="12.620824634655532 329"/>
                                     <text x="60" y="50" dominant-baseline="central">147</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3831</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3832</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -369,9 +369,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="1.45414364640884 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="1.4525386313465785 329"/>
                                     <text x="60" y="50" dominant-baseline="central">4</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/905</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/906</text>
                                 </svg>
                                 <span class="title">Hard</span>
                             </div>
@@ -427,7 +427,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Feb 2026, 01:22:49  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Feb 2026, 01:22:24  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
